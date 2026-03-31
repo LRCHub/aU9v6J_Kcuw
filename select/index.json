@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "手紙 ~拝啓 十五の君へ~ / THE FIRST TAKE",
+  "base_artist": "アンジェラ・アキ",
+  "createdAt": "2026-03-31T11:17:17.161599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓 十五の君へ〜",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/01_手紙_〜拝啓_十五の君へ〜_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "手紙 ~拝啓 十五の君へ~",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/02_手紙_~拝啓_十五の君へ~_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/03_手紙_~拝啓_十五の君へ~_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/04_手紙_~拝啓_十五の君へ~_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓 十五の君へ〜",
+      "artist": "アンジェラ・アキ",
+      "has_synced": true,
+      "path": "select/05_手紙_〜拝啓_十五の君へ〜_アンジェラ・アキ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓　十五の君へ〜",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/06_手紙_〜拝啓_十五の君へ〜_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓　十五の君へ～",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/07_手紙_~拝啓_十五の君へ~_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "手紙 ~拝啓 十五の君へ",
+      "artist": "Toshl",
+      "has_synced": true,
+      "path": "select/08_手紙_~拝啓_十五の君へ_Toshl.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓 十五の君へ〜",
+      "artist": "Aki, Angela",
+      "has_synced": true,
+      "path": "select/09_手紙_〜拝啓_十五の君へ〜_Aki,_Angela.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": true,
+      "path": "select/10_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "Toshl",
+      "has_synced": true,
+      "path": "select/11_手紙_~拝啓_十五の君へ~_Toshl.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ·アキ",
+      "has_synced": true,
+      "path": "select/12_手紙_~拝啓_十五の君へ~_アンジェラ·アキ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓　十五の君へ〜-strings version- - Tegami -Haikei Jyuugo No Kimi E (Strings Version)",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/13_手紙_〜拝啓_十五の君へ〜-strings_version-_-_Tegami_-Haikei_Jyuugo_No_Kimi_E_(Strings_Versio_Angela_Aki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓　十五の君へ〜 - Tegami - Haikei Jyugo No Kimie",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/14_手紙_〜拝啓_十五の君へ〜_-_Tegami_-_Haikei_Jyugo_No_Kimie_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～ -strings version-",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/15_手紙_~拝啓_十五の君へ~_-strings_version-_Angela_Aki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_01_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    }
+  ]
+}
